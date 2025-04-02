@@ -5,7 +5,7 @@ This plugin for [Obsidian](https://obsidian.md) adds a button into ribbon menu o
 # Manual Installation
 
 - plugin version: download `obsidian-image-hider` folder and drop it into your `\.obsidian\plugins\` folder
-- CSS snippet version: download `\obsidian-image-hider-css-snippet-ver\hide-images.css` and drop it in `\.obsidian\snippets\` folder
+- CSS snippet version: download [hide-images.css](https://github.com/njko39/obsidian-toggle-image-visibility-plugin/blob/main/obsidian-image-hider-css-snippet-ver/hide-images.css) and drop it in `\.obsidian\snippets\` folder
 
 # License
 
